@@ -40,3 +40,22 @@ This is a **mobile application** built using **Flutter**, simulating core featur
 
 - The web version of the app is still under development and currently only displays placeholder content.  
 - Editing profile details such as username, bio, and profile picture is not available in this version. 
+
+## How to Run
+
+# 1. Clone the repository
+git clone <your-repository-url>
+
+# 2. Navigate into the project folder
+cd <your-project-folder>
+
+# 3. Install dependencies
+flutter pub get
+
+# 4. Set up Firebase for the project
+# - Create a Firebase project
+# - Enable Authentication and Firestore
+# - Download `google-services.json` (Android) / `GoogleService-Info.plist` (iOS) and add to your project
+
+# 5. Run the app on an emulator or a physical device
+flutter run
