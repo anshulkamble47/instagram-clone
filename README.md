@@ -36,7 +36,7 @@ This is a **mobile application** built using **Flutter**, simulating core featur
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The web version of the app is still under development and currently only displays placeholder content.  
 - Editing profile details such as username, bio, and profile picture is not available in this version. 
